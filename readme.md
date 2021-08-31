@@ -5,3 +5,6 @@
     -Incrementado detalhes de "hover" no menu e nos produtos da página produtos.
     -Ajustado o readme.md para adicionar comentários por commits e não por versões.
     
+>Commit Footer
+    -Adicionado o rodapé
+    -Foi atribuido uma imagem de background pelo css
