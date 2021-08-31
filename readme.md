@@ -1,0 +1,2 @@
+-1.0
+Esse 1.0 na verdade já está na metade do segundo módulo sobre HTML/CSS, o repositório foi criado com o intuito de no futuro seja possivel observar a curva de aprendizado. (É assim que se faz um readme?)
