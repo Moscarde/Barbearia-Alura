@@ -1,10 +1,17 @@
->Primeiro Commit
-    -Esse 1.0 na verdade já está na metade do segundo módulo sobre HTML/CSS, o repositório foi criado com o intuito de no futuro seja possivel observar a curva de aprendizado. (É assim que se faz um readme?).
+# BarbeariaAlura
+Esse foi um projeto desenvolvido de acordo com o curso de desenvolvimento web da Alura.
+Ele é um site da "Barbearia Alura".
+O site consiste em 3 páginas, sendo elas:
 
->Commit Produtos1
-    -Incrementado detalhes de "hover" no menu e nos produtos da página produtos.
-    -Ajustado o readme.md para adicionar comentários por commits e não por versões.
-    
->Commit Footer
-    -Adicionado o rodapé
-    -Foi atribuido uma imagem de background pelo css
+<strong>Home</strong>
+    <ul>
+        <li>Página principal que contém informações sobre a barbearia, beneficios para os clientes e um pouco da sua história</li>
+    </ul>
+<strong>Produtos</strong>
+    <ul>
+        <li>Página sobre os produtos e seus valores</li>
+    </ul>
+<strong>Contato</strong>
+    <ul>
+        <li>Página destinada as formas de contato e horarios de funcionamento</li>
+    </ul>
