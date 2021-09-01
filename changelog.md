@@ -19,3 +19,10 @@ Aqui no commits.md estarei marcando cada etapa do desenvolvimento, como forma de
     <ul>
         <li>Foi feito uma organização de pastas e arquivos e corrigido as referências à eles nos códigos</li>
     </ul>
+<strong>Commit <em>Contato</em></strong>
+    <ul>
+        <li>Renomeado as css</li>
+        <li>Criação da página Contato</li>
+        <li>Criação do formulário</li>
+        <li>Criação da tabela de horários</li>
+    </ul>
