@@ -70,7 +70,7 @@ nav a:hover{
     font-size:18px;
 }
 footer{
-    background: URL(Produtos/bg.jpg);
+    background: URL(../img/bg.jpg);
     text-align: center;
     padding: 40px 0;
 }

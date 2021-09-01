@@ -15,3 +15,7 @@ Aqui no commits.md estarei marcando cada etapa do desenvolvimento, como forma de
         <li>Adicionado o rodapé</li>
         <li>Foi atribuido uma imagem de background pelo css</li>
     </ul>
+<strong>Commit <em>Organização</em></strong>
+    <ul>
+        <li>Foi feito uma organização de pastas e arquivos e corrigido as referências à eles nos códigos</li>
+    </ul>
