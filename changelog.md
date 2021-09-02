@@ -1,28 +1,21 @@
-# BarbeariaAlura
-Aqui no commits.md estarei marcando cada etapa do desenvolvimento, como forma de aprender também a usar o GitHub
+# Changelog
+Todas as alterações notaveis nesse projeto serão reportadas aqui.
 
-<strong>Commit <em>Primeiro Commit</em></strong>
-    <ul>
-        <li>-Esse 1.0 na verdade já está na metade do segundo módulo sobre HTML/CSS, o repositório foi criado com o intuito de no futuro seja possivel observar a curva de aprendizado. (É assim que se faz um readme?).</li>
-    </ul>
-<strong>Commit <em>Produtos1</em></strong>
-    <ul>
-        <li>Incrementado detalhes de "hover" no menu e nos produtos da página produtos.</li>
-        <li>Ajustado o readme.md para adicionar comentários por commits e não por versões.</li>
-    </ul>
-<strong>Commit <em>Footer</em></strong>
-    <ul>
-        <li>Adicionado o rodapé</li>
-        <li>Foi atribuido uma imagem de background pelo css</li>
-    </ul>
-<strong>Commit <em>Organização</em></strong>
-    <ul>
-        <li>Foi feito uma organização de pastas e arquivos e corrigido as referências à eles nos códigos</li>
-    </ul>
-<strong>Commit <em>Contato</em></strong>
-    <ul>
-        <li>Renomeado as css</li>
-        <li>Criação da página Contato</li>
-        <li>Criação do formulário</li>
-        <li>Criação da tabela de horários</li>
-    </ul>
+## [3.0] 01-09-21
+### Adicionado
+- Página de Contato
+
+### Alterado
+- Renomeado o arquivo commits.md para changelog.md
+- Reestruturado o changelog.md para um formato baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+- Reestruturado o readme.md
+
+## [2.0] 31-08-21
+### Adicionado
+- Página de Produtos
+- readme.md
+- commits.md
+
+## [1.0] 30-01-21
+### Adicionado
+- Página Home
